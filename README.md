@@ -15,7 +15,7 @@ acesse a [documentação oficial](https://docs.docker.com/get-docker/).
 1. Clone este repositorio
 
 ```bash
-git clone https://github.com/manoelpiovesan/cfp-back
+git clone https://github.com/manoelpiovesan/cfp-back.git
 ```
 
 ⚠️ Nota: O backend está configurado para lidar com autenticação via JWT, então você precisa configurar as chaves
