@@ -31,10 +31,10 @@ Para facilitar o processo de execução do projeto, o frontend, criado em Flutte
 diretório `frontend`.
 Você pode ver o código fonte do frontend em [manoelpiovesan/cfp-front](https://github.com/manoelpiovesan/cfp-front)
 
-3. Agora subiremos a stack do projeto com o docker-compose
+3. Agora suba a stack do projeto com o docker compose
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 Você pode acessar a documentação da API (Swagger)
