@@ -4,7 +4,7 @@ src/main/resources/baseKey.pem
 
 # Gradle
 .gradle/
-build/
+/build/
 
 # Eclipse
 .project
