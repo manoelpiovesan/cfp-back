@@ -92,3 +92,7 @@ Busca por Papers (com filtro)
 Registro de Usuário
 <img src="readme_files/image5.png" alt="">
 
+## Exemplo de submissão
+
+[Vídeo de exemplo](https://youtu.be/UWyIPV5Uk1k)
+
