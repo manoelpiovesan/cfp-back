@@ -9,6 +9,9 @@ Tecnologias usadas:
 
 ## Rodando o projeto
 
+Antes de rodar o projeto, você deve ter o Docker e o Docker Compose instalados na sua máquina. Para mais informações,
+acesse a [documentação oficial](https://docs.docker.com/get-docker/).
+
 1. Clone este repositorio
 
 ```bash
@@ -37,9 +40,9 @@ Você pode ver o código fonte do frontend em [manoelpiovesan/cfp-front](https:/
 docker compose up
 ```
 
-Você pode acessar a documentação da API (Swagger)
+Tudo pronto! Agora você pode acessar a documentação da API (Swagger)
 em [http://localhost:8080/api/swagger-ui/](http://localhost:8080/q/swagger-ui/)
-e o frontend em [http://localhost:8081](http://localhost:8081)
+e o frontend em [http://localhost:8081](http://localhost:8081).
 
 ## Diagrama de Entidade-Relacionamento do Banco de Dados
 
@@ -72,7 +75,7 @@ classDiagram
     User "1" -- "N" Paper: has
 ```
 
-## Screenshots
+## Capturas de Tela
 
 Lista de Papers
 <img src="readme_files/image1.png" alt="">
